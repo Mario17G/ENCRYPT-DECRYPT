@@ -1,3 +1,6 @@
+
+# ENCRYPT-DECRYPT
+
 This directory contains a program to encrypt text files and another one to decrypt them respectively. 
 
 Logic to encrypt:
@@ -15,3 +18,7 @@ The logic to decrypt the files is to subtract 5 from the ASCII code of each char
 For example, the characters from 34 to 38 are changed to 122 to 126, 126 is changed to spaces in ASCII code
 and exclamation marks (!) are changed to y.
 And if we find a newline or a carriage return, we do nothing.
+
+![ENCRYPT-DECRYPT](https://raw.githubusercontent.com/Mario17G/PROJECT_IMAGES/main/ENCRYPT-DECRYPT/original.png)
+
+![ENCRYPT-DECRYPT](https://raw.githubusercontent.com/Mario17G/PROJECT_IMAGES/main/ENCRYPT-DECRYPT/encrypt-decrypt.png)
